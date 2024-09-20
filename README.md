@@ -22,8 +22,7 @@ Financial strain is avoided by ensuring that the project stays within the budget
 Agile: Flexible, iterative, and perfect for projects that are changing. 
 Benefit: Enables ongoing adaptation and feedback. Drawback: May not have a distinct end goal.
 
-Waterfall: More suited for clearly defined projects, it is structured and sequential. Benefit: Timelines and structure are clear.
-A disadvantage is that it is less adaptable to changes as it develops.
+Waterfall: More suited for clearly defined projects, it is structured and sequential. Benefit: Timelines and structure are clear. A disadvantage is that it is less adaptable to changes as it develops.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
